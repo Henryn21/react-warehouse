@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-warehouse/static/css/main.073c9b0a.css",
+    "main.js": "/react-warehouse/static/js/main.99578955.js",
+    "static/js/787.ef733a53.chunk.js": "/react-warehouse/static/js/787.ef733a53.chunk.js",
+    "static/media/logo.svg": "/react-warehouse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-warehouse/index.html",
+    "main.073c9b0a.css.map": "/react-warehouse/static/css/main.073c9b0a.css.map",
+    "main.99578955.js.map": "/react-warehouse/static/js/main.99578955.js.map",
+    "787.ef733a53.chunk.js.map": "/react-warehouse/static/js/787.ef733a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.99578955.js"
+  ]
+}
