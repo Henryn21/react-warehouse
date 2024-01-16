@@ -1,0 +1,17 @@
+
+.listing-item > span {
+    padding: 0.25vh 0;
+}
+  
+.listing-item-name {
+    display: inline-block;
+    width: 50%;
+    border-right: 0.1vw solid black;
+    box-sizing: border-box;
+}
+
+.listing-item-count {
+    display: inline-block;
+    width: 50%;
+    font-weight: bold;
+}
